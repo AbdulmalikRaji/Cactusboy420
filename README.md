@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cactusboy420
+- 👋 Hi, I’m Abdulmalik Raji
 - 👀 I’m interested in Python, C, Cloud Computing
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on ...
